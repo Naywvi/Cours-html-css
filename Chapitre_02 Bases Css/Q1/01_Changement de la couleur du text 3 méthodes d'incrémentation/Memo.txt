@@ -1,0 +1,6 @@
+Dans cet exemple, on indique le chemin vers la feuille de 
+style grâce à l'attribut href, l'attribut  rel possède une 
+valeur stylesheet qui indique que c'est une feuille de style. 
+rel signifie relationship qui correspond donc à la relation entre 
+la ressource et le document courant. Il existe de nombreux types de liens possibles.
+________________________________________________________________________________________

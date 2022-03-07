@@ -1,0 +1,6 @@
+*       (permet de selectionner toute les balises de la page, soit toute la page)
+h1 + p  (permet de selectionner le text après le h1 soit le titre en h1)
+h1 span (permet de selectionner tout les span qui se trouvent dans les h1)
+{
+color: blue;
+}

@@ -1,0 +1,13 @@
+.introduction /*Ici nous avons utilisé" la balise "class" qui va généraliser et modifier tout les "introduction"*/
+{
+    color: blue;
+}
+#para /*Ici nous avons utilisé l'attribut "id" dans une balise. Cet attribut est unique il fonctionne comme un pointeur en golang*/
+{
+    color: red;
+}
+/*
+La différence entre les deux ici c'est qu'ont ne les appel pas de la même manière.
+avec un point "." pour les attributions "class"
+avec un dies "#" pour les attributions "id"
+*/

@@ -1,0 +1,6 @@
+Ici nous allons apprendre à faire des liens qui redirigeront soit :
+> Vers d'autres site
+> Sur le même site web
+> Ou bien sur la même pages avec des mots clefs
+
+En l'occurence nous verrons aussi comment mettre un fichier à telecharger sur le site en question. 

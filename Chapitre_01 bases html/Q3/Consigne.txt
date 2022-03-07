@@ -1,0 +1,4 @@
+Ici l'objectif étant d'optimiser notre text afin qu'il soit clair.
+De çà nous allons apprendre à faire de la mise en page. Donc modifier notre text directement.
+Par l'ajout de saut de lignes et de paragraphes. Ou bien l'ajout de modification "gras, souligner ect."
+Nosu allons aussi voir comment faire des listes à puces, soit des listes.

@@ -1,0 +1,5 @@
+COURS:
+https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1604361-creez-votre-premiere-page-web-en-html
+
+CODEPEN: (permet de coder et voir directement ce qu'il en ressort)
+https://codepen.io/

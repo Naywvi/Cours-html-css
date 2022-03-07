@@ -1,0 +1,6 @@
+Ici nous allons alors apprendre à mettre une image dans notre page web. 
+Nous allons aussi la mettre ne format minuscule aifn de cliquer dessus et de l'agrandir. 
+Puis nous allons par la suite mettre une légende a cette même image (lui donner un libélé).
+
+Utiliser les formats d'image pour chaque incertion. A defaut de faire du nptk.
+Soit le png pour les photos et le jpeg pour tout le reste. Le gif quant à lui reste pour les illustration.

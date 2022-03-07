@@ -1,0 +1,4 @@
+Ici nous allons apprendre à changer la couleur des text ou autre. Cependant nous allons aussi voir
+comment séparé et rendre unique une zone que nous pourrons alors appeler dans le fichier css.
+Nous allons utiliser pour ça plusieurs balises et plusieurs attributions que nous incr"menterons dans nos balises.
+Afin de pour voir selectionner, séparer et isoler certainnes zonnes.
